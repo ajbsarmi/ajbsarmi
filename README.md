@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o5aWJ5bmY5bXZ0amRuN2xzdGoydG9vdDBubmJoY2lyYWZrZW5kZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
 
-[https://img.shields.io/badge/LinkedIn-blue](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)
+https://img.shields.io/badge/LinkedIn-blue](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)
 
 
 - 💻 Senior Business Insights Analyst at TaskUs, Philippines.
