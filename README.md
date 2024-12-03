@@ -14,7 +14,7 @@
   </a>
 
 </div>
-
+</div>
 
 
 - 💻 Senior Business Insights Analyst at TaskUs, Philippines.
