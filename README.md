@@ -1,4 +1,7 @@
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZoZGQ2dXA5ZW80anR3cG11dnJreXo4a3JyMWc2d3BiZzhiMTVsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o5aWJ5bmY5bXZ0amRuN2xzdGoydG9vdDBubmJoY2lyYWZrZW5kZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 - 💻 Senior Business Insights Analyst at TaskUs, Philippines.
 - 🛠️ Tech Stack: Power BI, Looker, Looker Studio, Excel, Google Sheets, Big Query, VS Code, JupyterLab, Google Colab
