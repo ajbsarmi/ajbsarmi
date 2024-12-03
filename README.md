@@ -1,5 +1,5 @@
-## Hi there 👋
 
+- Sr. Business Insights Analyst at TaskUs, in Philippines
 <!--
 **ajbsarmi/ajbsarmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
