@@ -1,5 +1,12 @@
+1. Current Position:
+- 💻 Role: Senior Business Insights Analyst at TaskUs, Philippines.
+- 🛠️ Tech Stack: Power BI, Looker, Looker Studio, Excel, Google Sheets, Big Query, VS Code, JupyterLab, Google Collab
+- 🛠️ Languages: Python, SQL
+- ✍️ Soon to write technical blogs in Medium
+- 🎥 Soon to create technical videos in Youtube
+- ⚡ I enjoy: reading, watching movies, playing basketball, exercise in Gym and video games.
+- 🧑‍🎓 BS in Financial Management
 
-- Sr. Business Insights Analyst at TaskUs, in Philippines
 <!--
 **ajbsarmi/ajbsarmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
