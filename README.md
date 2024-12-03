@@ -25,6 +25,7 @@
 - ⚡ Enjoys reading, watching movies, playing basketball, working out at the gym, and gaming.
 - 🧑‍🎓 Bachelor of Science in Financial Management.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/ajbsarmi/github-readme-stats)
 <!--
 **ajbsarmi/ajbsarmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
